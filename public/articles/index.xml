@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on NJ11 for Palestine</title>
+    <link>//localhost:1313/articles/</link>
+    <description>Recent content in Articles on NJ11 for Palestine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>5. Newsletter</title>
+      <link>//localhost:1313/articles/newsletter/</link>
+      <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/articles/newsletter/</guid>
+      <description>The theme supports a subscription to multiple newsletter providers.&#xA;Buttondown Substack Revue Buttondown [Params.newsletter.provider] = &amp;ldquo;buttondown&amp;rdquo;&#xA;Copy the action url from your buttondown admin dashboard and add it to [Params.newsletter.path] in config.toml&#xA;Substack [Params.newsletter.provider] = &amp;ldquo;substack&amp;rdquo;&#xA;Setting up substack is the easiest. Just add your substack newsletter URL (applicable for custom domains also) to [Params.newsletter.path] in config.toml&#xA;Note that since substack doesn&amp;rsquo;t have a native API for subscription. The theme uses the api from substackapi.</description>
+    </item>
+  </channel>
+</rss>

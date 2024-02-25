@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NJ11 for Palestine</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on NJ11 for Palestine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Feb 2024 11:04:11 -0500</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Get involved</title>
+      <link>//localhost:1313/docs/faq/</link>
+      <pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/faq/</guid>
+      <description>We are group of constituents from the New Jersey’s 11th Congressional District from all backgrounds calling on @mikiesherrill to call for a #CeasefireNOW. We welcome your help.</description>
+    </item>
+    <item>
+      <title>Actions for Feb 24</title>
+      <link>//localhost:1313/posts/my-first-post/</link>
+      <pubDate>Tue, 20 Feb 2024 11:04:11 -0500</pubDate>
+      <guid>//localhost:1313/posts/my-first-post/</guid>
+      <description>Here&amp;rsquo;s your daily reminder to make your calls and send your emails!&#xA;Senator Booker &amp;ldquo;Ceasefire&amp;rdquo; and you do not agree with his sending more $$ to Israel 856-338-8922 Senator Menendez &amp;ldquo;Ceasefire&amp;rdquo; and you do not agree with his sending more $$ to Israel 856-757-5353 Sherrill &amp;ldquo;Ceasefire AND vote NO on more aid to Israel* and vote to recognize Palestine Right to Statehood (HR 902.) Andy Kim &amp;ldquo;Ceasefire AND vote NO on more aid to Israel and vote for HR 902 to recognize Palestinian statehood.</description>
+    </item>
+    <item>
+      <title>Advocacy Actions for Peace</title>
+      <link>//localhost:1313/post/basic-elements/</link>
+      <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/basic-elements/</guid>
+      <description>Remember, every call, email, and message counts. Your advocacy is a step towards change, pushing for peace, justice, and respect for human rights. Engage, inform, and encourage others in your community to participate. Together, our voices can lead to meaningful policy changes and a brighter future for all affected by this conflict.&#xA;View our daily actions page and check out the Actions category for more ideas. If you have an ideas please contect us via this form.</description>
+    </item>
+    <item>
+      <title>Mission</title>
+      <link>//localhost:1313/mission/</link>
+      <pubDate>Tue, 25 Jan 2022 14:00:00 +0000</pubDate>
+      <guid>//localhost:1313/mission/</guid>
+      <description>NJ11 for Palestine is an 501(c)(4) independent organization committed to advocating for enduring change for the Palestinian people within New Jersey&amp;rsquo;s 11th Congressional District. By highlighting the significant challenges faced by Palestinians, including systemic injustices, occupation-related hardships, and the denial of fundamental human rights, we aim to foster a community that is both engaged and informed. Our mission extends beyond mere advocacy; we seek to empower our community to influence political representation, ensuring it is not only transparent and responsive but also accountable.</description>
+    </item>
+    <item>
+      <title>NJ11 Reps</title>
+      <link>//localhost:1313/reps/</link>
+      <pubDate>Tue, 25 Jan 2022 14:00:00 +0000</pubDate>
+      <guid>//localhost:1313/reps/</guid>
+      <description>This guide provides you with the essential information needed to reach out to your federal and state representatives. Whether it&amp;rsquo;s to voice your concerns, ask questions, or offer support, knowing how to contact your reps is the first step in participating in the democratic process.&#xA;FEDERAL REPRESENTATIVES House of Representatives Mikie Sherrill (D) Phone (DC): (202) 225-5034 Phone (NJ): (973) 526-5668 Other Ways to Contact: Senate Bob Menendez (D) Phone (DC): (202)-224-4744 Phone (NJ): (973)-645-3030 Other Ways to Contact: Cory Booker (D) Phone (DC): (202)-224-3224 Phone (NJ): (973)-639-8700 Other Ways to Contact: STATE REPRESENTATIVES Governor Phil Murphy (D) Phone: (609)-292-6000 Other Ways to Contact: </description>
+    </item>
+    <item>
+      <title>5. Newsletter</title>
+      <link>//localhost:1313/articles/newsletter/</link>
+      <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/articles/newsletter/</guid>
+      <description>The theme supports a subscription to multiple newsletter providers.&#xA;Buttondown Substack Revue Buttondown [Params.newsletter.provider] = &amp;ldquo;buttondown&amp;rdquo;&#xA;Copy the action url from your buttondown admin dashboard and add it to [Params.newsletter.path] in config.toml&#xA;Substack [Params.newsletter.provider] = &amp;ldquo;substack&amp;rdquo;&#xA;Setting up substack is the easiest. Just add your substack newsletter URL (applicable for custom domains also) to [Params.newsletter.path] in config.toml&#xA;Note that since substack doesn&amp;rsquo;t have a native API for subscription. The theme uses the api from substackapi.</description>
+    </item>
+  </channel>
+</rss>
