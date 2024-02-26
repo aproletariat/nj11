@@ -1,4 +1,4 @@
-baseurl = "aproletariat.github.io"
+baseurl = "https://aproletariat.github.io/nj11/"
 title = "NJ11 for Palestine"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
