@@ -13,7 +13,7 @@ This guide provides you with the essential information needed to reach out to yo
 ### House of Representatives
 
 #### Mikie Sherrill (D)
-![Mikie Sherrill Contact](//images/sherrill.jpg)
+![Mikie Sherrill Contact](https://aproletariat.github.io/nj11/images/sherrill.jpg)
 - **Phone (DC):** (202) 225-5034
 - **Phone (NJ):** (973) 526-5668
 - **Other Ways to Contact:** 
@@ -21,7 +21,7 @@ This guide provides you with the essential information needed to reach out to yo
 ### Senate
 
 #### Bob Menendez (D)
-![Bob Menendez Contact](//images/menendez.jpg)
+![Bob Menendez Contact](https://aproletariat.github.io/nj11/images/menendez.jpg)
 - **Phone (DC):** (202)-224-4744
 - **Phone (NJ):** (973)-645-3030
 - **Other Ways to Contact:** 
