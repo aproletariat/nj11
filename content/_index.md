@@ -1,1 +1,1 @@
-![Palestine](/images/palestine-flag.jpg)
+![Palestine](palestine-flag.jpg)
